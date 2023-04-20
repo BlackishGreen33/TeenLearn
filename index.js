@@ -89,7 +89,7 @@ async function main() {
     }
     const course_id = course_res[0];
     const course_title = course_res[1];
-    const nid = "7400269"; // 团委id 自行修改
+    const nid = "7400269"; // 团委id
     const class_name = "华中师范大学计算机学院22级本科生"; // 班级
     const user_name = "苏芃子旸"; // 你的姓名
     // 发起一次请求 ，可以自行改造成批量
